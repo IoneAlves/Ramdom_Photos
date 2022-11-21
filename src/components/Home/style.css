@@ -1,0 +1,23 @@
+body {
+    text-align: center;
+    background-color: #6d6d6d;
+}
+
+.btnSearch {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    flex-wrap: wrap;
+    border: 1px solid #fff;
+    padding: 2.5em 0;
+}
+
+.btnSearch input, p {
+    font-size: 1.5rem;
+}
+
+.framePictures {
+    border: 1px solid #fff;
+    height: 25vh;
+    margin: 1em 0;
+}
